@@ -6,7 +6,8 @@
 
 
 body{
- background: url('./img/bg-desktop.webp');
+ background: url('./img/espaço.webp');
+ background-size: cover;
  font-family: "Merriweather", serif;   
 }
 
