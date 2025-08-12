@@ -6,7 +6,7 @@
 
 
 body{
- background: url('./img/espaço.webp');
+ background: url('./img/espaco2.webp');
  background-size: cover;
  font-family: "Merriweather", serif;   
 }
@@ -54,6 +54,9 @@ body{
 
 .cartao__conteudo__resposta p{
     color: var(--card-back-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font-weight: 700;
 }
 
